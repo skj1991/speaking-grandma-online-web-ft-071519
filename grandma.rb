@@ -1,7 +1,7 @@
-def speak_to_grandma 
+def speak_to_grandma
   if true
     puts "I LOVE YOU TOO PUMPKIN!"
-  elseif 
+  elseif
     puts "HUH?! SPEAK UP, SONNY!"
   else
     puts "NO, NOT SINCE 1938!"
@@ -11,7 +11,7 @@ end
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 
-# If you shout, she can hear you (or at least she thinks so) 
+# If you shout, she can hear you (or at least she thinks so)
 # and yells back
 
 # NO, NOT SINCE 1938!

@@ -7,7 +7,3 @@ phrase = "I LOVE YOU GRANDMA!"
   else
     puts "NO, NOT SINCE 1938!"
 end
-
-
-
-
